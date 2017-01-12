@@ -7,7 +7,7 @@ namespace ConsoleApplication
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine(c2.Method1());
+            Console.WriteLine(c2.c2.Method1());
         }
     }
 }
